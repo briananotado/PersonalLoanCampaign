@@ -1,3 +1,3 @@
-https://raw.githubusercontent.com/briananotado/ai-ml/main/
-https://raw.githubusercontent.com/briananotado/ai-ml/main/googled1c14760fb7f8619.html
-https://raw.githubusercontent.com/briananotado/ai-ml/main/index.html
+[@github.com/briananotado/PersonalLoanCampaign](https://github.com/briananotado/PersonalLoanCampaign)
+
+Analyzed the data provided and built a predictive model that will help to identify the customers of a bank who have a higher probability of purchasing a loan.
