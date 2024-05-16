@@ -8,6 +8,6 @@ A campaign that the bank ran last year for liability customers showed a healthy 
 
 You as a Data scientist at AllLife bank have to build a model that will help the marketing department to identify the potential customers who have a higher probability of purchasing the loan.
 
-### Objective
+### Objective
 
 To predict whether a liability customer will buy personal loans, to understand which customer attributes are most significant in driving purchases, and identify which segment of customers to target more.
