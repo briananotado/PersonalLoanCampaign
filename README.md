@@ -1,4 +1,4 @@
-| [@github.com/briananotado/PersonalLoanCampaign](https://github.com/briananotado/PersonalLoanCampaign) |
+[@github.com/briananotado/PersonalLoanCampaign](https://github.com/briananotado/PersonalLoanCampaign)
 
 ### Context
 
